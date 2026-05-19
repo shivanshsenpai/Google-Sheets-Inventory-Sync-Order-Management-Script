@@ -1,0 +1,2 @@
+# Google-Sheets-Inventory-Sync-Order-Management-Script
+This Google Apps Script automates inventory management across multiple sheets. It syncs stock availability between an Inventory sheet, a Matching Table, and Order sheets. Features include automatic image URL rendering, cross-spreadsheet SKU lookups, and conditional formatting for low stock. Replace the placeholder IDs to safely deploy in your works
